@@ -1,0 +1,13 @@
+package jp.co.internous01.action;
+
+public class HumanName {
+
+		private String lastName;
+		private String firstName;
+		private String getName(){
+			firstName="山田";
+			lastName="太郎";
+			String myName=firstName+lastName;
+			return myName;
+		}
+}
