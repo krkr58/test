@@ -1,4 +1,0 @@
-public class TestUserDAO {
-	String name="";
-	String password="";
-}

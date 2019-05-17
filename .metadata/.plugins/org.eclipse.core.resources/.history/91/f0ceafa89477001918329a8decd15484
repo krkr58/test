@@ -1,3 +1,0 @@
-
-public class SmartPhone extends phone implements Mp3player,Newfun{
-}
