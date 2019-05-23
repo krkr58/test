@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;login2&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;login2&apos;&#x0D;&#x0A;- オリジナル要素: &apos;login2/src/src&apos;&#x0D;&#x0A;- サブパッケージを削除" description="要素を削除" element1="/src&lt;src.com.internousdev.login.util" element2="/src&lt;src.com.internousdev.login.dto" element3="/src&lt;src.com.internousdev.login.dao" element4="/src&lt;src.com.internousdev.login.action" element5="/src&lt;src.com.internousdev.login" element6="/src&lt;src.com.internousdev" element7="/src&lt;src.com" element8="/src&lt;src" elements="8" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1558413139215" subPackages="true" version="1.0"/>
+</session>
