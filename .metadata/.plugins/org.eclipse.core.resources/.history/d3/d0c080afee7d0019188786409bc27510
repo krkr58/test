@@ -1,0 +1,13 @@
+package com.internousdev.webproj4.action;
+import com.internousdev.webproj4.dao.TestDAO;
+import com.opensymphony.xwork2.ActionSupport;
+import com.internousdev.webproj4.dto.LoginDTO;
+import java.util.ArrayList;
+import java.util.List;
+
+public class TestAction extends ActionSupport{
+	private String username;
+	private String password;
+	private List<LoginDTO> loginDTOList=new ArrayList<LoginDTO>();
+
+}
