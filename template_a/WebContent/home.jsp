@@ -73,6 +73,13 @@
 				<s:submit value="商品購入"/>
 			</s:form>
 		</div>
+
+		<div>
+			<s:form action="Home2Action">
+				<s:submit value="マイページ"/>
+			</s:form>
+		</div>
+
 	</div>
 
 	<div id="footer">
